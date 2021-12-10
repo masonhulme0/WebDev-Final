@@ -1,0 +1,63 @@
+.homeboy {
+    font-size: 150%;
+}
+.centertext {
+    color: rgb(2, 2, 70);
+    text-align: center;
+}
+.backgroundimages{
+    background-image: url("../images/galaxyimage.jpeg");
+    /* opacity: 0.5; */
+}
+
+.indentol {
+    text-indent: 50px;
+}
+a {
+    color: rgb(212, 207, 207);
+}
+h1 {
+    text-decoration: underline;
+}
+ol {
+    font-weight: bold;
+    color: rgb(212, 207, 207);
+}
+ul {
+    font-weight: normal;
+    color: rgb(212, 207, 207);
+}
+li {
+    color: rgb(212, 207, 207); 
+}
+.headerimage {
+    Height: 800px;
+    Width: auto;
+    overflow: hidden;
+}
+.whitetext{
+    color:white;
+}
+
+.footer{
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 50px;
+    font-size: 8px;
+    text-align: center;
+    position: fixed;
+}
+
+.bigtext {
+    font-size: 60px;
+    overflow: visible;
+}
+.verticalcenter{
+        margin: auto;
+        width: 50%;
+        padding: 10px;
+}
+.backgroundcolor {
+    color: black;
+}
